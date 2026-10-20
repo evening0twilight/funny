@@ -1,0 +1,7 @@
+tmp/
+data/.cache/
+research/_scratch/
+.DS_Store
+__pycache__/
+*.pyc
+.doctor.tmpc

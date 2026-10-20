@@ -1,0 +1,240 @@
+{
+  "schema_version": "ai-news-card/v1",
+  "origin": "aihot",
+  "title": "美国土安全部令文职机构移除DeepSeek及关联产品",
+  "source_name": "AIHOT（2 个信源 / 2 条报道）",
+  "source_url": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
+  "published_at": "2026-10-19T23:05:00+08:00",
+  "fetched_at": "2026-10-20T14:49:52+08:00",
+  "language": "zh",
+  "summary": "美国国土安全部依据2018年《联邦采购供应链安全法》发布2026-01号命令，要求所有联邦文职机构立即停止采购杭州DeepSeek人工智能公司及其关联方的产品，并立即从信息技术系统中移除DeepSeek及关联产品，以及使用DeepSeek实现开发的第三方产品和服务。",
+  "body": "美国国土安全部依据2018年《联邦采购供应链安全法》发布2026-01号命令，要求所有联邦文职机构立即停止采购杭州DeepSeek人工智能公司及其关联方的产品，并立即从信息技术系统中移除DeepSeek及关联产品，以及使用DeepSeek实现开发的第三方产品和服务。\n\n命令设有例外：机构须在命令发布后60天内以书面形式提出申请并给出“充分理由”，例如无法完成关键任务功能；国家安全系统和保密隔离信息系统不在命令适用范围内。\n\n该消息由X账号Rohan Paul发布，未说明命令的具体生效时间或涉及机构范围。\n\n美国国土安全部下令文职机构清除 DeepSeek 及基于其开发的产品",
+  "entities": [
+    {
+      "name": "DeepSeek",
+      "type": "org",
+      "mentions": 9
+    },
+    {
+      "name": "美国国土安全部",
+      "type": "policy",
+      "mentions": 5
+    }
+  ],
+  "facts": [
+    {
+      "id": "f1",
+      "text": "美国国土安全部依据2018年《联邦采购供应链安全法》发布2026-01号命令，要求所有联邦文职机构立即停止采购杭州DeepSeek人工智能公司及其关联方的产品，并立即从信息技术系统中移除DeepSeek及关联产品，以及使用DeepSeek实现开发的第三方产品和服务。",
+      "source": "AIHOT AI 综述",
+      "source_url": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
+      "published_at": "2026-10-20T06:26:51+08:00",
+      "tier": "third-party",
+      "tier_reason": "AIHOT 综述转述，未标注出处（保守定级）",
+      "evidence": [
+        "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+        "https://x.com/rohanpaul_ai/status/2112265351492972953"
+      ],
+      "kind": "digest"
+    },
+    {
+      "id": "f2",
+      "text": "命令设有例外：机构须在命令发布后60天内以书面形式提出申请并给出“充分理由”，例如无法完成关键任务功能；",
+      "source": "AIHOT AI 综述",
+      "source_url": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
+      "published_at": "2026-10-20T06:26:51+08:00",
+      "tier": "third-party",
+      "tier_reason": "AIHOT 综述转述，未标注出处（保守定级）",
+      "evidence": [],
+      "kind": "digest"
+    },
+    {
+      "id": "f3",
+      "text": "国家安全系统和保密隔离信息系统不在命令适用范围内。",
+      "source": "AIHOT AI 综述",
+      "source_url": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
+      "published_at": "2026-10-20T06:26:51+08:00",
+      "tier": "third-party",
+      "tier_reason": "AIHOT 综述转述，未标注出处（保守定级）",
+      "evidence": [],
+      "kind": "digest"
+    },
+    {
+      "id": "f4",
+      "text": "该消息由X账号Rohan Paul发布，未说明命令的具体生效时间或涉及机构范围。",
+      "source": "AIHOT AI 综述",
+      "source_url": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
+      "published_at": "2026-10-20T06:26:51+08:00",
+      "tier": "third-party",
+      "tier_reason": "AIHOT 综述转述，未标注出处（保守定级）",
+      "evidence": [],
+      "kind": "digest"
+    },
+    {
+      "id": "f5",
+      "text": "美国国土安全部下令文职机构清除 DeepSeek 及基于其开发的产品",
+      "source": "AIHOT 最新进展",
+      "source_url": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
+      "published_at": "2026-10-20T03:31:18+08:00",
+      "tier": "third-party",
+      "tier_reason": "AIHOT 综述转述，未标注出处（保守定级）",
+      "evidence": [],
+      "kind": "latest"
+    },
+    {
+      "id": "f6",
+      "text": "美国国土安全部依据 2018 年联邦采购供应链安全法下令，要求文职机构移除所有 DeepSeek 及关联产品，以及使用 DeepSeek 实现开发的第三方产品和服务。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_url": "https://x.com/rohanpaul_ai/status/2112265351492972953",
+      "published_at": "2026-10-20T03:31:18+08:00",
+      "tier": "unverified",
+      "tier_reason": "社媒个人/账号转述（X（原 Twitter）），需人工核验：X：Rohan Paul (@rohanpaul_ai)",
+      "evidence": [],
+      "kind": "report"
+    },
+    {
+      "id": "f7",
+      "text": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+      "source": "Hacker News：AI 热帖",
+      "source_url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+      "published_at": "2026-10-19T23:05:00+08:00",
+      "tier": "third-party",
+      "tier_reason": "媒体/评测/平台信源：Hacker News：AI 热帖",
+      "evidence": [],
+      "kind": "report"
+    },
+    {
+      "id": "f8",
+      "text": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
+      "source": "Hacker News：AI 热帖",
+      "source_url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+      "published_at": "2026-10-19T23:05:00+08:00",
+      "tier": "third-party",
+      "tier_reason": "媒体/评测/平台信源：Hacker News：AI 热帖",
+      "evidence": [],
+      "kind": "report"
+    }
+  ],
+  "numbers": [
+    {
+      "id": "n1",
+      "value": "2018",
+      "value_num": 2018.0,
+      "raw": "2018年",
+      "unit": "年",
+      "context": "美国国土安全部依据2018年《联邦采购供应链安全法》发布2026-01号命令，要求所有联邦文职机构立即停止采购杭州DeepSeek人工智能公司及其关联方的产品，并立即从信息技术系统中移除DeepSeek及关联产品，以及使用DeepSeek实现开发的第三方产品和服务。",
+      "source": "AIHOT AI 综述",
+      "source_url": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
+      "tier": "third-party",
+      "occurrences": 1
+    },
+    {
+      "id": "n2",
+      "value": "60",
+      "value_num": 60.0,
+      "raw": "60天",
+      "unit": "天",
+      "context": "命令设有例外：机构须在命令发布后60天内以书面形式提出申请并给出“充分理由”，例如无法完成关键任务功能；",
+      "source": "AIHOT AI 综述",
+      "source_url": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
+      "tier": "third-party",
+      "occurrences": 1
+    },
+    {
+      "id": "n3",
+      "value": "2018",
+      "value_num": 2018.0,
+      "raw": "2018 年",
+      "unit": "年",
+      "context": "美国国土安全部依据 2018 年联邦采购供应链安全法下令，要求文职机构移除所有 DeepSeek 及关联产品，以及使用 DeepSeek 实现开发的第三方产品和服务。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_url": "https://x.com/rohanpaul_ai/status/2112265351492972953",
+      "tier": "unverified",
+      "occurrences": 1
+    },
+    {
+      "id": "n4",
+      "value": "2018",
+      "value_num": 2018.0,
+      "raw": "2018 年",
+      "unit": "年",
+      "context": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
+      "source": "Hacker News：AI 热帖",
+      "source_url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+      "tier": "third-party",
+      "occurrences": 1
+    },
+    {
+      "id": "n5",
+      "value": "2026",
+      "value_num": 2026.0,
+      "raw": "2026",
+      "unit": "",
+      "context": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
+      "source": "Hacker News：AI 热帖",
+      "source_url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+      "tier": "third-party",
+      "occurrences": 1
+    },
+    {
+      "id": "n6",
+      "value": "01",
+      "value_num": 1.0,
+      "raw": "01",
+      "unit": "",
+      "context": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
+      "source": "Hacker News：AI 热帖",
+      "source_url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+      "tier": "third-party",
+      "occurrences": 1
+    }
+  ],
+  "quotes": [],
+  "timeline": [
+    {
+      "time": "2026-10-20T03:31:18+08:00",
+      "event": "美国国土安全部下令文职机构清除 DeepSeek 及基于其开发的产品",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "url": "https://x.com/rohanpaul_ai/status/2112265351492972953",
+      "tier": "unverified"
+    },
+    {
+      "time": "2026-10-19T23:05:00+08:00",
+      "event": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+      "source": "Hacker News：AI 热帖",
+      "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+      "tier": "third-party"
+    }
+  ],
+  "links": {
+    "originals": [
+      "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
+      "https://x.com/rohanpaul_ai/status/2112265351492972953",
+      "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/"
+    ],
+    "aihot": "https://aihot.news/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
+    "related": []
+  },
+  "source_meta": {
+    "source_type": "aihot",
+    "aihot_story_id": "c23155c2-2ff3-45e5-a3ab-4ed6a5217d72",
+    "status": "active",
+    "source_count": 2,
+    "report_count": 2,
+    "first_report_at": "2026-10-19T23:05:00+08:00",
+    "latest_at": "2026-10-20T03:31:18+08:00",
+    "digest_updated_at": "2026-10-20T06:26:51+08:00",
+    "transport": "cache"
+  },
+  "license": {
+    "commercial_ok": "requires_authorization",
+    "note": "AIHOT 数据受其使用条款约束：个人非商业、公益、组织内部使用免费；对外商业产品、客户交付、数据转售、公开镜像、批量公开再分发，以及训练/微调/评测/RAG 须事先取得 AIHOT 书面授权（aihot.news/terms）。下游若商用，请改用厂商官方源或先取得授权。",
+    "url": "https://aihot.news/terms"
+  },
+  "warnings": [],
+  "tier_counts": {
+    "official": 0,
+    "first-party": 0,
+    "third-party": 7,
+    "unverified": 1
+  }
+}

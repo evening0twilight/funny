@@ -1,0 +1,117 @@
+{
+  "topic": "MiniMax M3.1 Flash 发布",
+  "audience": "写代码、跑 agent、按 token 付费的开发者与 AI 工具党",
+  "angle": "性价比速报：成本 1/3、速度 3 倍，但别急着无脑换",
+  "visual_system": {
+    "style": "editorial utility",
+    "background": "#F6F4EE",
+    "foreground": "#1D2420",
+    "accent": "#E5484D"
+  },
+  "pages": [
+    {
+      "number": 1,
+      "role": "cover",
+      "title": "成本砍到 1/3",
+      "subtitle": "速度翻 3 倍，还限时免费 3 天｜MiniMax M3.1 Flash",
+      "bullets": [],
+      "visual_note": "米白底，左侧超大红字「1/3」，右侧竖排模型名，右下角小字「10/23 开权重」",
+      "source_note": "AIHOT 事件页 589d286a"
+    },
+    {
+      "number": 2,
+      "role": "pain",
+      "title": "跑一次 agent，账单先到",
+      "subtitle": "长任务越跑越贵，是今年写代码的人最共同的痛",
+      "bullets": [
+        "上下文越长，输入 token 越贵",
+        "多轮重试，一份活付三份钱",
+        "便宜的模型不够聪明，聪明的太贵"
+      ],
+      "visual_note": "三条账单式的横向条，数字用红色强调",
+      "source_note": ""
+    },
+    {
+      "number": 3,
+      "role": "overview",
+      "title": "三个数字看懂这次发布",
+      "subtitle": "官方口径，不是我编的",
+      "bullets": [
+        "1/3：成本只有 M3 的三分之一",
+        "3 倍：速度为 M3 的三倍，200+ TPS",
+        "1 元/百万 token：输入价格，输出 4 元",
+        "10/23：模型权重开放日"
+      ],
+      "visual_note": "2x2 数字宫格，每个格子里一个数字加一行说明",
+      "source_note": "MiniMax 官方博客 + IT之家 10-19"
+    },
+    {
+      "number": 4,
+      "role": "step",
+      "title": "匿名榜一大哥，就是它",
+      "subtitle": "之前叫 Space Bunny，在 OpenRouter 匿名打了 10 天",
+      "bullets": [
+        "匿名期间连续 10 天第一",
+        "累计处理 56.7T token",
+        "OpenCode 平台连续 12 天第一",
+        "回归后免费 72 小时"
+      ],
+      "visual_note": "榜单卡片风，第 1 名高亮，配一条向上箭头",
+      "source_note": "OpenRouter / OpenCode / Cline 官方发布"
+    },
+    {
+      "number": 5,
+      "role": "step",
+      "title": "分数不算顶，但够用",
+      "subtitle": "官方与第三方评测混合口径，看趋势不看绝对值",
+      "bullets": [
+        "DeepSWE v1.1：73.7%",
+        "OSWorld V2：61.7 分",
+        "CyberGym：82%",
+        "AA 智能指数 42：比 M3 高 13 分"
+      ],
+      "visual_note": "四项横向进度条，统一刻度，数值在条尾",
+      "source_note": "MiniMax 官方评测 + Artificial Analysis"
+    },
+    {
+      "number": 6,
+      "role": "case",
+      "title": "和 DeepSeek V4.1 比怎么选",
+      "subtitle": "同一天发布的另一个热门，正好对照",
+      "bullets": [
+        "M3.1 Flash：便宜、快，指数 42",
+        "DeepSeek V4.1 Flash：指数 45",
+        "写长任务先用便宜的跑通",
+        "关键环节再换聪明的模型收尾"
+      ],
+      "visual_note": "左右对比两列，红/灰双色，底部一行结论",
+      "source_note": "Artificial Analysis；AIHOT 热点 No.02"
+    },
+    {
+      "number": 7,
+      "role": "pitfall",
+      "title": "三个坑，先别急着换",
+      "subtitle": "发布信息里有几处还没坐实",
+      "bullets": [
+        "许可证尚未公布，商用先等",
+        "1M 上下文来自第三方转述，官方未逐条确认",
+        "免费是限时的，别把流程建在免费上"
+      ],
+      "visual_note": "警示条样式，左侧竖红线，每条前面一个小三角",
+      "source_note": "AIHOT 综述：许可证未公布、Testing Catalog 转述"
+    },
+    {
+      "number": 8,
+      "role": "cta",
+      "title": "先白嫖，再决定",
+      "subtitle": "免费窗口还在，跑你自己的任务才算数",
+      "bullets": [
+        "评论区问「哪里免费用」，我把入口贴出来",
+        "收藏这条，10/23 开权重我再来更新",
+        "你更在意便宜还是聪明？说一个"
+      ],
+      "visual_note": "米白底 + 红色大按钮形状（不放真实按钮），底部留白",
+      "source_note": ""
+    }
+  ]
+}
